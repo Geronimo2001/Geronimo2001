@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Geronimo2001
 - 👀 I’m interested in game programming
 - 🌱 I’m currently learning python, django and java script
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on anything 
 - 📫 How to reach me gerocrostelli@gmail.com
 
 <!---
